@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="bg-[#1E40AF]">
       <div className="container mx-auto flex items-center justify-between py-4 px-6">
-        {/* Logo or Center Text */}
+        
         <div className="text-[#7DD3FC] font-bold text-lg">
           Tution Free Education Program on Latest Technologies
         </div>
